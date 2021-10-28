@@ -1,5 +1,5 @@
 
-# React State Management Blog
+# State of React: Choosing the right state management tool 2021(Redux, Recoil, Context, Typescript)
 
  **Outline**:
 
